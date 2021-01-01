@@ -1,0 +1,13 @@
+C:\Users\ssova\Desktop\ООП\ooplab6\obj\Debug\netcoreapp3.1\ooplab6.csprojAssemblyReference.cache
+C:\Users\ssova\Desktop\ООП\ooplab6\obj\Debug\netcoreapp3.1\ooplab6.AssemblyInfoInputs.cache
+C:\Users\ssova\Desktop\ООП\ooplab6\obj\Debug\netcoreapp3.1\ooplab6.AssemblyInfo.cs
+C:\Users\ssova\Desktop\ООП\ooplab6\obj\Debug\netcoreapp3.1\ooplab6.csproj.CoreCompileInputs.cache
+C:\Users\ssova\Desktop\ООП\ooplab6\bin\Debug\netcoreapp3.1\ooplab6.exe
+C:\Users\ssova\Desktop\ООП\ooplab6\bin\Debug\netcoreapp3.1\ooplab6.deps.json
+C:\Users\ssova\Desktop\ООП\ooplab6\bin\Debug\netcoreapp3.1\ooplab6.runtimeconfig.json
+C:\Users\ssova\Desktop\ООП\ooplab6\bin\Debug\netcoreapp3.1\ooplab6.runtimeconfig.dev.json
+C:\Users\ssova\Desktop\ООП\ooplab6\bin\Debug\netcoreapp3.1\ooplab6.dll
+C:\Users\ssova\Desktop\ООП\ooplab6\bin\Debug\netcoreapp3.1\ooplab6.pdb
+C:\Users\ssova\Desktop\ООП\ooplab6\obj\Debug\netcoreapp3.1\ooplab6.dll
+C:\Users\ssova\Desktop\ООП\ooplab6\obj\Debug\netcoreapp3.1\ooplab6.pdb
+C:\Users\ssova\Desktop\ООП\ooplab6\obj\Debug\netcoreapp3.1\ooplab6.genruntimeconfig.cache
